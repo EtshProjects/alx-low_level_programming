@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
   *main function
-  *printf function
   *return function that returns 0
   */
 int main(void)
